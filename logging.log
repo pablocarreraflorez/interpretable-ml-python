@@ -1,14 +1,9 @@
-2020-04-03 19:26:52,835 __main__ 2:INFO Import data for regression
-2020-04-03 19:27:04,740 __main__ 2:INFO Import data for classification
-2020-04-03 19:27:04,796 __main__ 17:INFO Compute PDP for Temperature
-2020-04-03 19:27:04,976 __main__ 17:INFO Compute PDP for Humidity
-2020-04-03 19:27:05,083 __main__ 17:INFO Compute PDP for Season
-2020-04-03 19:27:05,182 __main__ 17:INFO Compute PDP for Weekday
-2020-04-03 19:27:06,864 __main__ 18:INFO Compute ICE for Temperature
-2020-04-03 19:27:17,722 __main__ 18:INFO Compute ICE for Humidity
-2020-04-03 19:27:28,839 __main__ 18:INFO Compute ICE for Season
-2020-04-03 19:27:53,739 __main__ 18:INFO Compute ICE for Weekday
-2020-04-03 19:29:00,245 __main__ 18:INFO Compute ICE for Temperature
-2020-04-03 19:29:12,315 __main__ 18:INFO Compute ICE for Humidity
-2020-04-03 19:29:23,510 __main__ 18:INFO Compute ICE for Season
-2020-04-03 19:29:45,448 __main__ 18:INFO Compute ICE for Weekday
+2020-04-20 23:40:50,416 __main__ 2:INFO Import data
+2020-04-20 23:40:52,618 __main__ 1:INFO Plot data distributions
+2020-04-20 23:40:55,478 __main__ 1:INFO Plot data targetplots
+2020-04-20 23:41:02,172 __main__ 17:INFO Compute PDP for Temperature
+2020-04-20 23:41:02,245 __main__ 17:INFO Compute PDP for Season
+2020-04-20 23:41:04,306 __main__ 18:INFO Compute ICE for Temperature
+2020-04-20 23:41:10,800 __main__ 18:INFO Compute ICE for Season
+2020-04-20 23:41:28,181 __main__ 18:INFO Compute ICE for Temperature
+2020-04-20 23:41:35,795 __main__ 18:INFO Compute ICE for Season
