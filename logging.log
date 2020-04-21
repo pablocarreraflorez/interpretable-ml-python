@@ -7,3 +7,9 @@
 2020-04-20 23:41:10,800 __main__ 18:INFO Compute ICE for Season
 2020-04-20 23:41:28,181 __main__ 18:INFO Compute ICE for Temperature
 2020-04-20 23:41:35,795 __main__ 18:INFO Compute ICE for Season
+2020-04-21 02:05:59,156 __main__ 17:INFO Compute PDP for Temperature
+2020-04-21 02:05:59,253 __main__ 17:INFO Compute PDP for Season
+2020-04-21 02:06:01,630 __main__ 18:INFO Compute ICE for Temperature
+2020-04-21 02:06:08,667 __main__ 18:INFO Compute ICE for Season
+2020-04-21 02:06:27,465 __main__ 18:INFO Compute ICE for Temperature
+2020-04-21 02:06:35,944 __main__ 18:INFO Compute ICE for Season
