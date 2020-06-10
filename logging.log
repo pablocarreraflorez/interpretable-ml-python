@@ -1,116 +1,19 @@
-2020-06-04 20:10:00,356 __main__ 1:INFO Import data
-2020-06-04 20:10:06,138 __main__ 1:INFO Import data
-2020-06-04 20:11:47,381 __main__ 1:INFO Import data
-2020-06-04 20:23:53,336 __main__ 2:INFO Import data
-2020-06-04 20:24:38,707 __main__ 2:INFO Import data
-2020-06-04 20:25:40,159 __main__ 2:INFO Import data
-2020-06-04 20:25:46,127 __main__ 2:INFO Import data
-2020-06-04 20:26:02,475 __main__ 2:INFO Import data
-2020-06-04 20:26:14,855 __main__ 2:INFO Import data
-2020-06-04 20:26:46,827 __main__ 2:INFO Import data
-2020-06-04 20:28:04,829 __main__ 2:INFO Import data
-2020-06-04 20:28:17,507 __main__ 2:INFO Import data
-2020-06-04 20:28:25,129 __main__ 2:INFO Import data
-2020-06-04 20:28:36,578 __main__ 2:INFO Import data
-2020-06-04 20:28:45,145 __main__ 2:INFO Import data
-2020-06-04 20:28:49,580 __main__ 2:INFO Import data
-2020-06-04 20:29:06,151 __main__ 2:INFO Import data
-2020-06-04 20:29:47,655 __main__ 2:INFO Import data
-2020-06-04 20:30:44,127 __main__ 2:INFO Import data
-2020-06-04 20:30:50,987 __main__ 1:INFO Plot data distributions
-2020-06-04 20:30:58,083 __main__ 1:INFO Plot data distributions
-2020-06-04 20:31:19,611 __main__ 2:INFO Import data
-2020-06-04 20:31:22,786 __main__ 1:INFO Plot data distributions
-2020-06-04 20:31:38,718 __main__ 1:INFO Plot data distributions
-2020-06-04 20:38:12,495 __main__ 2:INFO Import data
-2020-06-04 20:38:14,966 __main__ 1:INFO Plot data distributions
-2020-06-04 20:49:36,940 __main__ 1:INFO Plot data targetplots
-2020-06-04 20:49:43,902 __main__ 1:INFO Plot data targetplots
-2020-06-04 20:50:06,363 __main__ 1:INFO Plot data targetplots
-2020-06-04 20:50:28,932 __main__ 2:INFO Import data
-2020-06-04 20:50:32,043 __main__ 1:INFO Plot data distributions
-2020-06-04 20:59:29,246 __main__ 2:INFO Import data
-2020-06-04 20:59:31,006 __main__ 1:INFO Plot data distributions
-2020-06-04 20:59:33,445 __main__ 1:INFO Plot data targetplots
-2020-06-04 21:00:16,199 __main__ 2:INFO Import data
-2020-06-04 21:00:18,141 __main__ 1:INFO Plot data distributions
-2020-06-04 21:00:20,530 __main__ 1:INFO Plot data targetplots
-2020-06-04 21:28:55,692 __main__ 2:INFO Import data
-2020-06-04 22:01:27,869 __main__ 2:INFO Import data
-2020-06-04 22:01:30,915 __main__ 1:INFO Plot data distributions
-2020-06-04 22:01:33,567 __main__ 1:INFO Plot data targetplots
-2020-06-04 23:07:34,813 __main__ 2:INFO Import data
-2020-06-04 23:07:35,929 __main__ 1:INFO Plot data distributions
-2020-06-04 23:07:38,455 __main__ 1:INFO Plot data targetplots
-2020-06-04 23:13:09,638 __main__ 2:INFO Import data
-2020-06-04 23:13:12,206 __main__ 1:INFO Plot data distributions
-2020-06-04 23:13:14,667 __main__ 1:INFO Plot data targetplots
-2020-06-04 23:33:37,120 __main__ 1:INFO Plot data targetplots
-2020-06-04 23:33:51,725 __main__ 2:INFO Import data
-2020-06-04 23:33:53,845 __main__ 1:INFO Plot data distributions
-2020-06-04 23:33:56,384 __main__ 1:INFO Plot data targetplots
-2020-06-04 23:34:07,773 __main__ 2:INFO Import data
-2020-06-04 23:34:29,587 __main__ 2:INFO Import data
-2020-06-04 23:34:32,879 __main__ 1:INFO Plot data distributions
-2020-06-04 23:34:35,252 __main__ 1:INFO Plot data targetplots
-2020-06-04 23:40:13,659 __main__ 2:INFO Import data
-2020-06-04 23:40:27,763 __main__ 2:INFO Import data
-2020-06-04 23:40:33,118 __main__ 1:INFO Plot data distributions
-2020-06-04 23:40:35,463 __main__ 1:INFO Plot data targetplots
-2020-06-04 23:40:47,358 __main__ 2:INFO Import data
-2020-06-04 23:40:49,252 __main__ 1:INFO Plot data distributions
-2020-06-04 23:41:27,667 __main__ 1:INFO Plot data targetplots
-2020-06-04 23:42:00,663 __main__ 2:INFO Import data
-2020-06-04 23:42:03,519 __main__ 1:INFO Plot data distributions
-2020-06-04 23:42:08,109 __main__ 1:INFO Plot data targetplots
-2020-06-04 23:50:37,153 __main__ 2:INFO Import data
-2020-06-04 23:50:38,803 __main__ 1:INFO Plot data distributions
-2020-06-04 23:50:40,732 __main__ 1:INFO Plot data targetplots
-2020-06-05 00:22:01,855 __main__ 17:INFO Compute PDP for Age
-2020-06-05 00:22:03,754 __main__ 17:INFO Compute PDP for Race
-2020-06-05 00:22:54,414 __main__ 17:INFO Compute PDP for Age
-2020-06-05 00:22:55,876 __main__ 17:INFO Compute PDP for RelatoshipStatus
-2020-06-05 00:23:08,201 __main__ 17:INFO Compute PDP for Age
-2020-06-05 00:23:09,760 __main__ 17:INFO Compute PDP for Relatoship
-2020-06-05 00:23:21,294 __main__ 17:INFO Compute PDP for Age
-2020-06-05 00:23:23,165 __main__ 17:INFO Compute PDP for Relationship
-2020-06-05 00:23:38,839 __main__ 17:INFO Compute PDP for CapitalGain
-2020-06-05 00:23:44,500 __main__ 17:INFO Compute PDP for CapitalGains
-2020-06-05 00:23:58,852 __main__ 17:INFO Compute PDP for CapitalGain
-2020-06-05 00:24:19,239 __main__ 17:INFO Compute PDP for CapitalGain
-2020-06-05 00:24:27,277 __main__ 17:INFO Compute PDP for Age
-2020-06-05 00:24:28,754 __main__ 17:INFO Compute PDP for Relationship
-2020-06-05 00:25:18,705 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:25:47,566 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:26:04,124 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:26:12,355 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:26:13,418 __main__ 17:INFO Compute PDP for Relationship
-2020-06-05 00:26:54,477 __main__ 2:INFO Import data
-2020-06-05 00:26:55,890 __main__ 1:INFO Plot data distributions
-2020-06-05 00:26:57,793 __main__ 1:INFO Plot data targetplots
-2020-06-05 00:27:07,437 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:27:08,201 __main__ 17:INFO Compute PDP for Relationship
-2020-06-05 00:27:09,790 __main__ 2:INFO Compute PDP with PDPbox
-2020-06-05 00:27:14,059 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:35:40,533 __main__ 2:INFO Import data
-2020-06-05 00:35:42,722 __main__ 1:INFO Plot data distributions
-2020-06-05 00:35:44,988 __main__ 1:INFO Plot data targetplots
-2020-06-05 00:36:20,190 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:36:41,124 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:36:47,857 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:36:55,299 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:36:57,546 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:37:04,961 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:37:06,117 __main__ 17:INFO Compute PDP for Relationship
-2020-06-05 00:37:14,301 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:37:25,955 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:37:26,705 __main__ 17:INFO Compute PDP for Relationship
-2020-06-05 00:38:05,979 __main__ 17:INFO Compute PDP for Race
-2020-06-05 00:38:06,863 __main__ 17:INFO Compute PDP for Relationship
-2020-06-05 00:38:21,118 __main__ 17:INFO Compute PDP for EducationYears
-2020-06-05 00:38:22,218 __main__ 17:INFO Compute PDP for Relationship
-2020-06-05 00:38:31,844 __main__ 2:INFO Compute PDP with PDPbox
-2020-06-05 00:39:49,292 __main__ 2:INFO Compute PDP with PDPbox
-2020-06-05 00:39:50,326 __main__ 19:INFO Compute PDP with PDPbox
-2020-06-05 00:40:05,475 __main__ 2:INFO Compute PDP with PDPbox
-2020-06-05 00:40:06,572 __main__ 19:INFO Compute PDP with PDPbox
+2020-06-10 19:21:08,045 __main__ 2:INFO Import data
+2020-06-10 19:21:09,689 __main__ 1:INFO Plot data distributions
+2020-06-10 19:21:10,924 __main__ 1:INFO Plot data targetplots
+2020-06-10 19:21:18,187 __main__ 17:INFO Compute PDP for EducationYears
+2020-06-10 19:21:19,656 __main__ 17:INFO Compute PDP for MaritalStatus
+2020-06-10 19:21:22,501 __main__ 2:INFO Compute PDP with PDPbox
+2020-06-10 19:21:24,368 __main__ 19:INFO Compute PDP with PDPbox
+2020-06-10 19:21:26,180 __main__ 2:INFO Compute PDP with PDPbox
+2020-06-10 19:21:42,408 __main__ 17:INFO Compute PDP with PDPbox
+2020-06-10 19:22:34,089 __main__ 2:INFO Compute PDP with PDPbox
+2020-06-10 19:22:50,187 __main__ 17:INFO Compute PDP with PDPbox
+2020-06-10 19:28:43,861 __main__ 18:INFO Compute ICE for EducationYears
+2020-06-10 19:28:50,414 __main__ 18:INFO Compute ICE for EducationYears
+2020-06-10 19:28:53,622 __main__ 18:INFO Compute ICE for EducationYears
+2020-06-10 19:34:40,114 __main__ 18:INFO Compute ICE for EducationYears
+2020-06-10 19:40:11,641 __main__ 2:INFO Compute ICE with PDPbox
+2020-06-10 19:51:44,811 __main__ 2:INFO Import data
+2020-06-10 19:51:46,780 __main__ 1:INFO Plot data distributions
+2020-06-10 19:51:47,874 __main__ 1:INFO Plot data targetplots
