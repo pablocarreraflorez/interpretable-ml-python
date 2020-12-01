@@ -1,2 +1,2 @@
 # interpretable-ml-python
-In this repository I am going to develop a research about Machine Learning interpretability. My plan is first, to review the publications regarding this topic, then, to implement the techniques from scracth and, finally, to explore some state-of-art implementations and libraries to perform a more profesional analysis.
+Notes and notebooks with examples regarding model-agnostic InterpretableML methods.
